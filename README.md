@@ -3,9 +3,12 @@
 🚀 **Full-Stack Developer | AWS & Cloud Enthusiast | Free Lancer**
 
 🔹 Passionate about building scalable web applications and mastering the MERN stack.
+
 🔹 Currently leveling up my skills in AWS, DevOps, and Cloud Computing.
+
 🔹 Exploring JavaScript deeply, from async programming to design patterns.
-🔹 Preparing for **AMCAT Exam** & **AWS Certifications** to boost my career.
+
+🔹 Preparing for **AMCATExam** & **AWS Certifications** to boost my career.
 ---
 
 ### 📂 My GitHub Repositories
