@@ -28,9 +28,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Kalpana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalpana-959920&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)](https://github.com/Kalpana-959920)
+![Kalpana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalpana-959920&show_icons=true&theme=tokyonig
 
 ---
 
