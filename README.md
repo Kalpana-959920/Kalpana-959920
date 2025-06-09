@@ -22,7 +22,7 @@ I'm a beginner frontend developer, currently learning the fundamentals of web de
 
 ### ☕ Coffee Website
 
-This is a simple, responsive landing page about coffee — my first project built using HTML and CSS, with a bit of JavaScript.
+This is a simple, responsive website about coffee — my first project built using HTML and CSS, with a bit of JavaScript.
 
 - ✅ Clean layout
 - ✅ Mobile-friendly design
