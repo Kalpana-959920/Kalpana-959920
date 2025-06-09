@@ -6,7 +6,11 @@ I'm a beginner frontend developer, currently learning the fundamentals of web de
 
 - HTML
 - CSS
-- Basic JavaScript
+- JavaScript
+
+- 
+- 💻 **Frontend**: HTML5, CSS3, JavaScript (ES6)
+- 🧰 **Tools**: VS Code, Git & GitHub, Chrome DevTools
 
 ## 📁 My First Project
 
