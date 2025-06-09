@@ -18,7 +18,7 @@ This is a simple, responsive landing page about coffee — my first project buil
 - ✅ Mobile-friendly design
 - ✅ Simple animations/interactions
 
-[🔗 Live Demo](#) *(Add your link if hosted)*  
+[🔗 Live Demo](#) View the Website  
 [📂 Source Code](#) *(Add GitHub link if public)*
 
 ## 🚀 What I’m Working On
