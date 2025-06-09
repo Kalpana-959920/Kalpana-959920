@@ -56,12 +56,3 @@ Thanks for visiting my profile! More projects coming soon 👨‍💻
 ### 📊 GitHub Stats
 ![Kalpana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalpana-959920&show_icons=true&theme=tokyonig
 
----
-
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalpana-959920)
-
----
-
-⚡ **Quote:** "The best way to predict the future is to create it."
