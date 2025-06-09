@@ -30,8 +30,8 @@ This is a simple, responsive landing page about coffee — my first project buil
 ## 📫 Connect with Me
 
 - Email: kalpanamathur40@gmail.com 
-- GitHub: https://github-readme-stats.vercel.app/api?username=Kalpana-959920&show_icons=true&theme=tokyonig  
-- LinkedIn: www.linkedin.com/in/kalpana-mathur-a2b910331
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalpana-959920)
 
 ---
 
