@@ -51,8 +51,4 @@ Thanks for visiting my profile! More projects coming soon 👨‍💻
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Kalpana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalpana-959920&show_icons=true&theme=tokyonig
 
