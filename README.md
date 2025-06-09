@@ -29,7 +29,9 @@ This is a simple, responsive landing page about coffee — my first project buil
 
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-%20your.email@example.com-blue?style=flat&logo=gmail)](mailto:your.kalpanamathur40@gmail.com) 
+<a href="mailto:your.email@example.com">
+  <img src="https://img.icons8.com/fluency/24/gmail-new.png" alt="Email" />
+</a> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalpana-959920)
 
