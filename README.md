@@ -25,7 +25,7 @@ This is a simple, responsive landing page about coffee — my first project buil
 - ✅ Simple animations/interactions
 
 [🔗 Live Demo](#): (https://kalpana-959920.github.io/coffee/)  
-[📂 Source Code](#):(https://github-readme-stats.vercel.app/api?username=Kalpana-959920&show_icons=true&theme=tokyonig)
+[📂 Source Code](#):(https://github.com/Kalpana-959920/coffee/)
 
 ## 🚀 What I’m Working On
 
