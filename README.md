@@ -9,7 +9,7 @@ I'm a beginner frontend developer, currently learning the fundamentals of web de
 - JavaScript
 
 ## 🔧 Tech Stack
-- 💻 **Frontend**: HTML5, CSS3, JavaScript (ES6)
+- 💻 **Frontend**: HTML5, CSS3, ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - 🧰 **Tools**: VS Code, Git & GitHub, Chrome DevTools
 
 ## 📁 My First Project
