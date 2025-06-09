@@ -1,6 +1,6 @@
 ### Hi there, I'm Kalpana Mathur! 👋
 
-🚀 **Full-Stack Developer | AWS & Cloud Enthusiast | Free Lancer**
+🚀 **Full-Stack Developer | Free Lancer**
 
 🔹 Passionate about building scalable web applications and mastering the MERN stack.
 
