@@ -47,12 +47,8 @@ This is a simple, responsive landing page about coffee — my first project buil
 
 Thanks for visiting my profile! More projects coming soon 👨‍💻
 
-### 📂 My GitHub Repositories
-- 📌 [Daily Progress Repo](https://github.com/your-username/daily-progress) → Learning logs, practice projects
-- 🎓 [Certificate Project Repo](https://github.com/your-username/certifications) → Hands-on projects from my certifications
-- 💼 [Job Project Repo](https://github.com/your-username/job-projects) → Professional-level projects for job readiness
 
----
+
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
