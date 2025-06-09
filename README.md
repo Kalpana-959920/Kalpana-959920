@@ -1,15 +1,41 @@
-### Hi there, I'm Kalpana Mathur! 👋
+# 👋 Hi, I'm Kalpana Mathur
 
-🚀 **Full-Stack Developer | Free Lancer**
+I'm a beginner frontend developer, currently learning the fundamentals of web development.
 
-🔹 Passionate about building scalable web applications and mastering the MERN stack.
+## 🌱 Skills
 
-🔹 Currently leveling up my skills in AWS, DevOps, and Cloud Computing.
+- HTML
+- CSS
+- Basic JavaScript
 
-🔹 Exploring JavaScript deeply, from async programming to design patterns.
+## 📁 My First Project
 
-🔹 Preparing for **AMCATExam** & **AWS Certifications** to boost my career.
+### ☕ Coffee Website
+
+This is a simple, responsive landing page about coffee — my first project built using HTML and CSS, with a bit of JavaScript.
+
+- ✅ Clean layout
+- ✅ Mobile-friendly design
+- ✅ Simple animations/interactions
+
+[🔗 Live Demo](#) *(Add your link if hosted)*  
+[📂 Source Code](#) *(Add GitHub link if public)*
+
+## 🚀 What I’m Working On
+
+- Improving my CSS and layout skills  
+- Learning JavaScript deeper  
+- Exploring responsive design techniques
+
+## 📫 Connect with Me
+
+- Email: kalpanamathur40@gmail.com 
+- GitHub: [github.com/yourusername]  
+- LinkedIn: [linkedin.com/in/yourprofile] *(optional)*
+
 ---
+
+Thanks for visiting my profile! More projects coming soon 👨‍💻
 
 ### 📂 My GitHub Repositories
 - 📌 [Daily Progress Repo](https://github.com/your-username/daily-progress) → Learning logs, practice projects
