@@ -27,7 +27,7 @@ This is a simple, responsive landing page about coffee — my first project buil
 - Learning JavaScript deeper  
 - Exploring responsive design techniques
 
-## 📫 Connect with Me
+## 🔗 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalpanamathur@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
